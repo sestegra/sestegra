@@ -15,5 +15,3 @@ Cloud Native Transformation Catalyst</br>
 * [Twitter](https://twitter.com/sestegra)
 * [Credly](https://www.credly.com/users/stephane-este-gracias) 
 * [Accredible](https://credential.net/profile/stephane-este-gracias/wallet)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sestegra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
