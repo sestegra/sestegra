@@ -2,8 +2,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sestegra)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@sestegra)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sestegra&show_icons=true&theme=highcontrast)
-
 ## Stéphane Este-Gracias @sestegra
 Open Source Advocate since last century</br> 
 Cloud Native Transformation Catalyst</br> 
@@ -15,3 +13,5 @@ Cloud Native Transformation Catalyst</br>
 * [Twitter](https://twitter.com/sestegra)
 * [Credly](https://www.credly.com/users/stephane-este-gracias) 
 * [Accredible](https://credential.net/profile/stephane-este-gracias/wallet)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sestegra&show_icons=true&theme=highcontrast)
