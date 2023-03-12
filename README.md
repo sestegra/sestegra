@@ -5,7 +5,8 @@
 ## Stéphane Este-Gracias @sestegra
 Open Source Advocate since last century</br> 
 Cloud Native Transformation Catalyst</br> 
-[CNCF Community Group Luxembourg](https://community.cncf.io/luxembourg/) Organizer</br> 
+[HashiCorp Ambassador 2023](https://www.credly.com/badges/725d095c-a768-43a5-92b3-108b0e631e05)</br> 
+[Cloud Native Community Group Luxembourg](https://community.cncf.io/luxembourg/) Organizer</br> 
 [HashiCorp User Group Luxembourg](https://www.meetup.com/luxembourg-hashicorp-user-group/) Organizer</br> 
 
 * [LinkedIn](https://linkedin.com/in/sestegra)
