@@ -13,6 +13,7 @@ As a Cloud Native enthusiast, I am proud to continue promoting open-source softw
 * [Cloud Native Luxembourg](https://community.cncf.io/luxembourg/) Organizer</br> 
 * [HashiCorp User Group Luxembourg](https://www.meetup.com/luxembourg-hashicorp-user-group/) Organizer</br> 
 
+Links
 * [LinkedIn](https://linkedin.com/in/sestegra)
 * [Medium](https://medium.com/@sestegra)
 * [Twitter](https://twitter.com/sestegra)
