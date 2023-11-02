@@ -9,9 +9,8 @@ Leveraging my expertise in cloud-native technologies, I help teams overcome chal
 
 As a Cloud Native enthusiast, I am proud to continue promoting open-source software and inspiring others to join the movement.
 
-* [HashiCorp Ambassador 2023](https://www.credly.com/badges/725d095c-a768-43a5-92b3-108b0e631e05)</br> 
+* [CNCF Ambassador Fall 2023](https://www.credly.com/badges/45e7e32b-5af0-4076-9c99-84f30aa54ebc)</br> 
 * [Cloud Native Luxembourg](https://community.cncf.io/luxembourg/) Organizer</br> 
-* [HashiCorp User Group Luxembourg](https://www.meetup.com/luxembourg-hashicorp-user-group/) Organizer</br> 
 
 Links
 * [LinkedIn](https://linkedin.com/in/sestegra)
