@@ -16,6 +16,6 @@ Links
 * [LinkedIn](https://linkedin.com/in/sestegra)
 * [Medium](https://medium.com/@sestegra)
 * [Twitter](https://twitter.com/sestegra)
-* [Credly](https://www.credly.com/users/stephane-este-gracias) 
+* [Credly](https://www.credly.com/users/sestegra) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sestegra&show_icons=true&theme=highcontrast)
