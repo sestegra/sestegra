@@ -11,7 +11,7 @@ As a Cloud Native enthusiast, I am proud to continue promoting open-source softw
 
 * [CNCF Ambassador](https://www.credly.com/badges/97e29ae0-2d27-4371-b155-03019e50c52d)</br> 
 * [Cloud Native Luxembourg](https://community.cncf.io/luxembourg/) Organizer</br>
-* [Merge Forward - Blind and Visually Impaired Sub-group Co-Lead](https://community.cncf.io/blind-and-visually-impaired/) </br>
+* [Merge Forward - Blind and Visually Impaired Sub-group](https://community.cncf.io/blind-and-visually-impaired/) Co-Lead</br>
 
 Links
 * [LFX Profile](https://openprofile.dev/profile/sestegra)
